@@ -2,7 +2,7 @@ import 'package:equatable/equatable.dart';
 
 class Quote extends Equatable{
   final String author ;
-  final String id ;
+  final int id ;
   final String content ;
   final String permalink ;
 
